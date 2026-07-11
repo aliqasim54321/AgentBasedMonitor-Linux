@@ -41,10 +41,6 @@ The objective of this lab is to:
 
 Create and log in to your Linux Virtual Machine.
 
-> **Figure 1:** Linux Virtual Machine
-
-![Figure 1](images/fig1.png)
-
 ---
 
 # Step 2 – Create an Agent Group
@@ -69,9 +65,9 @@ Qasim-agentgroup
 
 Click **Save**.
 
-> **Figure 2:** Creating a New Agent Group
+> **Figure 1:** Creating a New Agent Group
 
-![Figure 2](images/fig2.png)
+![Figure 1](images/fig1.png)
 
 ---
 
@@ -99,7 +95,7 @@ Save the scan.
 > **Figure 3:** Triggered Agent Scan Configuration
 
 
-![Figure 3](images/fig3.png)
+![Figure 2](images/fig2.png)
 
 ---
 
