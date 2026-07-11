@@ -43,9 +43,7 @@ Create and log in to your Linux Virtual Machine.
 
 > **Figure 1:** Linux Virtual Machine
 
-```
 ![Figure 1](images/fig1.png)
-```
 
 ---
 
@@ -73,9 +71,7 @@ Click **Save**.
 
 > **Figure 2:** Creating a New Agent Group
 
-```
 ![Figure 2](images/fig2.png)
-```
 
 ---
 
@@ -102,9 +98,8 @@ Save the scan.
 
 > **Figure 3:** Triggered Agent Scan Configuration
 
-```
+
 ![Figure 3](images/fig3.png)
-```
 
 ---
 
@@ -130,9 +125,7 @@ curl -H 'X-Key: YOUR_API_KEY' 'https://sensor.cloud.tenable.com/install/agent?na
 
 > **Figure 4:** Linux Agent Installation Command
 
-```
 ![Figure 4](images/fig4.png)
-```
 
 ---
 
@@ -157,9 +150,7 @@ curl -H 'X-Key: YOUR_API_KEY' 'https://sensor.cloud.tenable.com/install/agent?gr
 
 > **Figure 5:** Modified Installation Command
 
-```
 ![Figure 5](images/fig5.png)
-```
 
 ---
 
@@ -177,9 +168,7 @@ Wait until the installation completes successfully.
 
 > **Figure 6:** Nessus Agent Installation
 
-```
 ![Figure 6](images/fig6.png)
-```
 
 ---
 
@@ -201,9 +190,7 @@ This file name must match the trigger filename configured in the scan.
 
 > **Figure 7:** Creating the Trigger File
 
-```
 ![Figure 7](images/fig7.png)
-```
 
 ---
 
@@ -221,9 +208,7 @@ The disappearance of the file indicates that the Triggered Agent Scan has starte
 
 > **Figure 8:** Trigger File Removed
 
-```
 ![Figure 8](images/fig8.png)
-```
 
 ---
 
@@ -250,9 +235,7 @@ Verify:
 
 > **Figure 9:** Linked Nessus Agent
 
-```
 ![Figure 9](images/fig9.png)
-```
 
 ---
 
@@ -274,9 +257,7 @@ Verify that:
 
 > **Figure 10:** Triggered Scan Results
 
-```
 ![Figure 10](images/fig10.png)
-```
 
 ---
 
